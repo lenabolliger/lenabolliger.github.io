@@ -354,6 +354,21 @@ body {
     line-height: 1.4;
 }
 
+.resource-links {
+    margin-bottom: 0.2rem;
+    font-size: 0.9rem;
+}
+
+.resource-links a {
+    color: #3b82f6;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.resource-links a:hover {
+    text-decoration: underline;
+}
+
 .venue {
     color: #3b82f6;
     font-weight: 500;
